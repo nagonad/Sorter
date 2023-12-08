@@ -1,0 +1,14 @@
+D:\C#\TodoList\Sorter\bin\Debug\net6.0\Sorter.exe
+D:\C#\TodoList\Sorter\bin\Debug\net6.0\Sorter.deps.json
+D:\C#\TodoList\Sorter\bin\Debug\net6.0\Sorter.runtimeconfig.json
+D:\C#\TodoList\Sorter\bin\Debug\net6.0\Sorter.dll
+D:\C#\TodoList\Sorter\bin\Debug\net6.0\Sorter.pdb
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\Sorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\Sorter.AssemblyInfoInputs.cache
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\Sorter.AssemblyInfo.cs
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\Sorter.csproj.CoreCompileInputs.cache
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\Sorter.dll
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\refint\Sorter.dll
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\Sorter.pdb
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\Sorter.genruntimeconfig.cache
+D:\C#\TodoList\Sorter\obj\Debug\net6.0\ref\Sorter.dll
